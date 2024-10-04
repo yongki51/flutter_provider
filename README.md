@@ -1,4 +1,4 @@
-# flutter_application_movie_provider
+# flutter_application_provider
 
 A new Flutter project.
 
